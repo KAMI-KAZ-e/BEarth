@@ -1,0 +1,23 @@
+body{
+	font-family: Lato;
+	font-weight: 500;
+	background: url(https://www.theitem.com/uploads/original/20190118-150301-EARTH.jpg);
+}
+#content{
+	text-align: center;
+	padding-top: 15%;
+}
+html{
+	height: 100%;
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+
+}
+h1,h3{
+	color: white;
+}
+h1{
+	font-size: 5em;
+}
